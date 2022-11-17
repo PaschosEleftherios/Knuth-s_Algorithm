@@ -19,3 +19,5 @@ How it works:
   and in which position.)
   
 3)At most 5 attempts you will see the number you have written in your paper in your screen.
+
+An example of running is provided with number written in paper 3344
